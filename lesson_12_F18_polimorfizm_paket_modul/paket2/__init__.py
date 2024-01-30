@@ -1,0 +1,1 @@
+from lesson_12_F18_polimorfizm_paket_modul.paket2.modul2 import max_elem, min_elem

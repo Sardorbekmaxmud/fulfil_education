@@ -1,0 +1,4 @@
+from lesson_12_F18_polimorfizm_paket_modul.paket3.add import add_numbers
+from lesson_12_F18_polimorfizm_paket_modul.paket3.sub import sub_numbers
+from lesson_12_F18_polimorfizm_paket_modul.paket3.mul import mul_numbers
+from lesson_12_F18_polimorfizm_paket_modul.paket3.div import div_numbers

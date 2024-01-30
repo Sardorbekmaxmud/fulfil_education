@@ -1,0 +1,45 @@
+body {
+    padding-left: 15px;
+    background-color: rgb(0, 153, 255);
+    text-align: center;
+    margin-left: 340px;
+    background: url('robert-bye-Qwts3DoN1ZE-unsplash.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+th {
+    color: black;
+    padding: 2px;
+}
+
+tr {
+    color: black;
+}
+
+td {
+    padding: 2px 10px 5px 10px;
+}
+
+.month {
+    color: whitesmoke;
+    border-style: 20px;
+
+    background-color: red;
+}
+.year {
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+    background-color: rgba(170, 235, 232, 0.497);
+    border-radius: 100px;
+
+}
+
+.mon, .tue, .wed, .thu, .fri, .sat, .sun, .noday {
+    background-color: white;
+}
+
+.sun {
+    color: red;
+}

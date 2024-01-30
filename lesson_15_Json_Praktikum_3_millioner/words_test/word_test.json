@@ -1,0 +1,527 @@
+[
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: book",
+        "answers": [
+            {
+                "key": "kitob",
+                "isTrue": true
+            },
+            {
+                "key": "kiyim",
+                "isTrue": false
+            },
+            {
+                "key": "ko'z oynak",
+                "isTrue": false
+            },
+            {
+                "key": "tuxum",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: car",
+        "answers": [
+            {
+                "key": "yemoq",
+                "isTrue": false
+            },
+            {
+                "key": "kar",
+                "isTrue": false
+            },
+            {
+                "key": "avtomobil",
+                "isTrue": true
+            },
+            {
+                "key": "fokus",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: steel",
+        "answers": [
+            {
+                "key": "ilmoq",
+                "isTrue": false
+            },
+            {
+                "key": "sokin",
+                "isTrue": false
+            },
+            {
+                "key": "belkurak",
+                "isTrue": false
+            },
+            {
+                "key": "temir",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: laptop",
+        "answers": [
+            {
+                "key": "noutbuk",
+                "isTrue": true
+            },
+            {
+                "key": "kopto'k",
+                "isTrue": false
+            },
+            {
+                "key": "notebook",
+                "isTrue": false
+            },
+            {
+                "key": "lopatka",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: apple",
+        "answers": [
+            {
+                "key": "tarvuz",
+                "isTrue": false
+            },
+            {
+                "key": "nok",
+                "isTrue": false
+            },
+            {
+                "key": "olma",
+                "isTrue": true
+            },
+            {
+                "key": "olxo'ri",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: gate",
+        "answers": [
+            {
+                "key": "javon",
+                "isTrue": false
+            },
+            {
+                "key": "darvoza",
+                "isTrue": true
+            },
+            {
+                "key": "eshik",
+                "isTrue": false
+            },
+            {
+                "key": "bolta",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: chess",
+        "answers": [
+            {
+                "key": "ches mermoq",
+                "isTrue": false
+            },
+            {
+                "key": "9 talik",
+                "isTrue": false
+            },
+            {
+                "key": "majong",
+                "isTrue": false
+            },
+            {
+                "key": "shaxmat",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: snow",
+        "answers": [
+            {
+                "key": "to'fon",
+                "isTrue": false
+            },
+            {
+                "key": "qor",
+                "isTrue": true
+            },
+            {
+                "key": "muz",
+                "isTrue": false
+            },
+            {
+                "key": "sinov",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: ice-cream",
+        "answers": [
+            {
+                "key": "марожна",
+                "isTrue": false
+            },
+            {
+                "key": "book",
+                "isTrue": false
+            },
+            {
+                "key": "muzqaymoq",
+                "isTrue": true
+            },
+            {
+                "key": "qor",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: tone",
+        "answers": [
+            {
+                "key": "mamnun bo'lmoq",
+                "isTrue": false
+            },
+            {
+                "key": "tinglash",
+                "isTrue": false
+            },
+            {
+                "key": "ohang",
+                "isTrue": true
+            },
+            {
+                "key": "doston",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: carrot",
+        "answers": [
+            {
+                "key": "baqlajon",
+                "isTrue": false
+            },
+            {
+                "key": "sabzi",
+                "isTrue": true
+            },
+            {
+                "key": "kartoshka",
+                "isTrue": false
+            },
+            {
+                "key": "quyon",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: window",
+        "answers": [
+            {
+                "key": "quvur",
+                "isTrue": false
+            },
+            {
+                "key": "sahifa",
+                "isTrue": false
+            },
+            {
+                "key": "stakan",
+                "isTrue": false
+            },
+            {
+                "key": "deraza",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: make",
+        "answers": [
+            {
+                "key": "boshqarmoq",
+                "isTrue": false
+            },
+            {
+                "key": "tepmoq",
+                "isTrue": false
+            },
+            {
+                "key": "yasamoq",
+                "isTrue": true
+            },
+            {
+                "key": "ilmoq",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: see",
+        "answers": [
+            {
+                "key": "janjallashmoq",
+                "isTrue": false
+            },
+            {
+                "key": "ko'rmoq",
+                "isTrue": true
+            },
+            {
+                "key": "sayr qilmoq",
+                "isTrue": false
+            },
+            {
+                "key": "gaplashmoq",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: plate",
+        "answers": [
+            {
+                "key": "joy",
+                "isTrue": false
+            },
+            {
+                "key": "piyola",
+                "isTrue": false
+            },
+            {
+                "key": "idish",
+                "isTrue": false
+            },
+            {
+                "key": "likopcha",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: Who?",
+        "answers": [
+            {
+                "key": "Nima uchun?",
+                "isTrue": false
+            },
+            {
+                "key": "Kim?",
+                "isTrue": true
+            },
+            {
+                "key": "Nima?",
+                "isTrue": false
+            },
+            {
+                "key": "Qanday?",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: cup",
+        "answers": [
+            {
+                "key": "kosa",
+                "isTrue": true
+            },
+            {
+                "key": "likopcha",
+                "isTrue": false
+            },
+            {
+                "key": "idish",
+                "isTrue": false
+            },
+            {
+                "key": "oyna",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: pull",
+        "answers": [
+            {
+                "key": "urmoq",
+                "isTrue": false
+            },
+            {
+                "key": "silkilamoq",
+                "isTrue": false
+            },
+            {
+                "key": "itarmoq",
+                "isTrue": false
+            },
+            {
+                "key": "tortmoq",
+                "isTrue": true
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: How old are you?",
+        "answers": [
+            {
+                "key": "Qayerliksiz?",
+                "isTrue": false
+            },
+            {
+                "key": "Ismingiz nima?",
+                "isTrue": false
+            },
+            {
+                "key": "Yoshingiz nechida?",
+                "isTrue": true
+            },
+            {
+                "key": "Ahvolingiz yaxshimi?",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: date",
+        "answers": [
+            {
+                "key": "uchrashmoq",
+                "isTrue": true
+            },
+            {
+                "key": "figura",
+                "isTrue": false
+            },
+            {
+                "key": "kosib",
+                "isTrue": false
+            },
+            {
+                "key": "ma'lumot",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: cube",
+        "answers": [
+            {
+                "key": "kubometr",
+                "isTrue": false
+            },
+            {
+                "key": "kubga ko'tarmoq",
+                "isTrue": true
+            },
+            {
+                "key": "kubik",
+                "isTrue": false
+            },
+            {
+                "key": "hisob",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: rain",
+        "answers": [
+            {
+                "key": "yomg'ir",
+                "isTrue": true
+            },
+            {
+                "key": "yuvmoq",
+                "isTrue": false
+            },
+            {
+                "key": "bajarmoq",
+                "isTrue": false
+            },
+            {
+                "key": "do'l",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: run",
+        "answers": [
+            {
+                "key": "quymoq",
+                "isTrue": false
+            },
+            {
+                "key": "sayr qilmoq",
+                "isTrue": false
+            },
+            {
+                "key": "yugurmoq",
+                "isTrue": true
+            },
+            {
+                "key": "fil",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: math",
+        "answers": [
+            {
+                "key": "ertak",
+                "isTrue": false
+            },
+            {
+                "key": "matematika",
+                "isTrue": true
+            },
+            {
+                "key": "uzuk",
+                "isTrue": false
+            },
+            {
+                "key": "ulkan",
+                "isTrue": false
+            }
+        ]
+    },
+    {
+        "question": "Quyidagi so'zning tarjimasini toping: pipe",
+        "answers": [
+            {
+                "key": "mandarin",
+                "isTrue": false
+            },
+            {
+                "key": "quvur",
+                "isTrue": true
+            },
+            {
+                "key": "olma",
+                "isTrue": false
+            },
+            {
+                "key": "igna",
+                "isTrue": false
+            }
+        ]
+    }
+]
